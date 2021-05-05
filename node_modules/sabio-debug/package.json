@@ -1,0 +1,22 @@
+{
+  "name": "sabio-debug",
+  "version": "1.0.0",
+  "description": "A wrapper debug utility",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/sabiocode/debug.git"
+  },
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "debug",
+    "sabio"
+  ],
+  "author": "Sabio",
+  "license": "ISC",
+  "dependencies": {
+    "debug": "^4.1.1"
+  }
+}
